@@ -1,0 +1,2 @@
+libtesseract-5.dll is missing in \EFT-Bots\EFT-AutoBuy\Tesseract-OCR
+bc over 100mb 
