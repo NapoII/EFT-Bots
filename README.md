@@ -1,12 +1,12 @@
 # EFT-Bots
 
-###EFT - Best_Bullets
+### EFT - Best_Bullets
 This program is designed to identify which bullets are good and which ones are bad in the Tarkov inventory menu. It does this by retrieving data from an API using an API key and a URL, and then downloads and saves images of the items locally. It also reads data from a text file and converts it into a list.
 
-###EFT - Take_Best_bullets
+### EFT - Take_Best_bullets
 This is a Python script that automates a process in the game Escape from Tarkov. The script uses image recognition to identify and select certain types of ammunition in the player's inventory. The ammunition is categorized into two lists - "Low_Ammo_List" and "High_Ammo_List" - based on their perceived quality. The user is prompted to input a hotkey to start the script. Once activated, the script continuously scans the player's inventory for the specified types of ammunition and automatically selects them for the player. The script ends when all items on both lists have been collected.
 
-###EFT-Ammo_Fill
+### EFT-Ammo_Fill
 The script appears to be an automation script that fills a certain number of magazines with ammunition based on user-defined settings. The script is written in Python and uses several libraries such as os, sys, pyautogui, and keyboard.
 
 The script starts by setting up the directories for the log files, images, and documents. Then, it prompts the user for input regarding the number of magazines to fill, the size of the slots, the size of the magazines, the number of different types of bullets, and the bullet rhythm.
