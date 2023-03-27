@@ -1,0 +1,24 @@
+4.6x30mm FMJ SX
+4.6x30mm AP SX
+5.45x39mm 7N40
+5.45x39mm PPBS gs Igolnik
+5.45x39mm PPBS gs Igolnik
+5.56x45mm M855A1
+5.56x45mm M995
+5.56x45mm SSA AP
+7.62x39mm BP gzh
+7.62x39mm MAI AP
+9x39mm PAB-9 gs
+9x39mm SPP gs
+9x39mm BP gs
+9x39mm SP-6 gs
+7.62x51mm M80
+7.62x51mm M62 Tracer
+7.62x51mm M61
+7.62x51mm M993
+7.62x54mm R T-46M gzh
+7.62x54mm R LPS gzh
+7.62x54mm R BT gzh
+7.62x54mm R SNB gzh
+7.62x54mm R BS gs
+.338 Lapua Magnum FMJ

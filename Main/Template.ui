@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<interface version="1.1">
+  <object class="ttk.Frame" id="Main">
+    <property name="height">500</property>
+    <property name="width">500</property>
+    <layout manager="pack">
+      <property name="propagate">True</property>
+      <property name="side">top</property>
+    </layout>
+    <child>
+      <object class="ttk.Frame" id="frame3">
+        <property name="height">200</property>
+        <property name="width">200</property>
+        <layout manager="pack">
+          <property name="propagate">True</property>
+          <property name="side">top</property>
+        </layout>
+        <child>
+          <object class="ttk.Button" id="button_EFTBotLogo">
+            <property name="image">EFTBotLogo</property>
+            <property name="text" translatable="yes">command= openGitHub</property>
+            <layout manager="pack">
+              <property name="propagate">True</property>
+              <property name="side">top</property>
+            </layout>
+          </object>
+        </child>
+        <child>
+          <object class="ttk.Button" id="button_Raid_helper">
+            <property name="image">Raid_helper_logo</property>
+            <property name="text" translatable="yes">command= Start_Raid_LootHelper</property>
+            <layout manager="pack">
+              <property name="propagate">True</property>
+              <property name="side">left</property>
+            </layout>
+          </object>
+        </child>
+        <child>
+          <object class="ttk.Button" id="button_Ammo_Fill">
+            <property name="image">Ammo_Fill_logo</property>
+            <property name="text" translatable="yes">command= Start_Ammo_Fill_exe</property>
+            <layout manager="pack">
+              <property name="propagate">True</property>
+              <property name="side">left</property>
+            </layout>
+          </object>
+        </child>
+        <child>
+          <object class="ttk.Button" id="button_Best_Bullet">
+            <property name="image">Best_Bullet_logo</property>
+            <property name="text" translatable="yes">command= Start_Best_Bullet_exe</property>
+            <layout manager="pack">
+              <property name="propagate">True</property>
+              <property name="side">left</property>
+            </layout>
+          </object>
+        </child>
+        <child>
+          <object class="ttk.Button" id="button_Auto_BUY_logo">
+            <property name="image">Auto_BUY_logo</property>
+            <property name="text" translatable="yes">command= Start_Auto_BUY_exe</property>
+            <layout manager="pack">
+              <property name="propagate">True</property>
+              <property name="side">left</property>
+            </layout>
+          </object>
+        </child>
+      </object>
+    </child>
+    <child>
+      <object class="ttk.Frame" id="frame7">
+        <property name="height">200</property>
+        <property name="width">200</property>
+        <layout manager="pack">
+          <property name="propagate">True</property>
+          <property name="side">top</property>
+        </layout>
+        <child>
+          <object class="tk.Text" id="Text">
+            <property name="background">#222222</property>
+            <property name="blockcursor">false</property>
+            <property name="height">5</property>
+            <property name="insertbackground">#ffd9d9</property>
+            <property name="insertunfocussed">none</property>
+            <property name="takefocus">false</property>
+            <property name="text" translatable="yes">created Napo_II
+v 0.0.3
+python 3.7
+https://github.com/NapoII/Napos-EFT-BOTS
+</property>
+            <property name="width">95</property>
+            <property name="wrap">word</property>
+            <layout manager="pack">
+              <property name="propagate">True</property>
+              <property name="side">top</property>
+            </layout>
+          </object>
+        </child>
+      </object>
+    </child>
+  </object>
+</interface>

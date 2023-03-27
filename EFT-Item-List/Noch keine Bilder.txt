@@ -1,0 +1,26 @@
+?
+19_12-2021_04:58:44 --> AMMO :		PMM_9x18mm
+			List:		Low_Ammo_List
+ 			Thershold :	0.85
+19_12-2021_04:58:44 --> Max_val:	0.7770957946777344
+			Max_loc:	(1289, 536)
+			Found =		False
+
+Nicht im Flo:
+ Low:
+.85 AP 6.3_9x19mm
+.85 SP10_9x21mm
+.85 Subsonic SX_4.6x30mm
+.85 L191_5.7x28mm
+.85 SS190_5.7x28mm
+.85 M855A1_5.56x45mm
+.85 M855A1_5.56x45mm
+.85 M856A1_5.56x45mm
+.85 SP-6_9x39mm
+.85 B-32_12.7x108mm
+.85 BZT-44M_12.7x108mm
+.85 TPZ SP_7.62x51mm
+.85 7N1_7.62x54mm
+.85 FMJ_.338 Lapua Magnum
+.85 8.5 12c_12x70mm
+

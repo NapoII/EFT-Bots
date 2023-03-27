@@ -1,0 +1,21 @@
+9x19mm AP 6.3
+9x19mm PBP gzh
+9x21mm PS gzh
+.45 ACP AP
+4.6x30mm Subsonic SX
+5.7x28mm L191
+5.7x28mm SB193
+5.7x28mm SS190
+5.45x39mm PP gs
+5.45x39mm BT gs
+5.45x39mm BP gs
+5.56x45mm M856A1
+7.62x39mm T-45M1 gzh
+7.62x39mm PS gzh
+9x39mm SP-5 gs
+.366 TKM EKO
+9x39mm SP-5 gs
+.366 TKM EKO
+.300 Blackout M62 Tracer
+.338 Lapua Magnum UCW
+23x75mm "Barrikada" slug

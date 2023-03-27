@@ -1,0 +1,32 @@
+.85 LRNPC_7.62x25mm
+.92 SP8 gzh_9x18mm
+.90 PMM_9x18mm
+.85 AP 6.3_9x19mm
+.92 Pst gzh_9x19mm
+.85 SP10_9x21mm
+.85 Subsonic SX_4.6x30mm
+.85 L191_5.7x28mm
+.85 SS190_5.7x28mm
+.85 FMJ_.45 ACP
+.85 BT_5.45x39mm
+.85 BP_5.45x39mm
+.90 M855A1_5.56x45mm
+.86 M856A1_5.56x45mm
+.86 PS_7.62x39mm
+.85 SP-6_9x39mm
+.85 SP-5_9x39mm
+.85 EKO_.366 TKM
+.85 FMJ_.366 TKM
+.85 PS12B_12.7x55mm
+.85 PS12_12.7x55mm
+.85 B-32_12.7x108mm
+.85 BZT-44M_12.7x108mm
+.85 M80_7.62x51mm
+.85 TPZ SP_7.62x51mm
+.85 7N1_7.62x54mm
+.85 LPS Gzh_7.62x54mm
+.85 FMJ_.338 Lapua Magnum
+.75 Flech._12x70mm
+.85 8.5 12c_12x70mm
+.85 20-70 Slug_20x70mm
+.85 7.5 20c_20x70mm
